@@ -1,0 +1,177 @@
+{
+  "WTO": 98.0,
+  "kL": 0.35,
+  "nvtol": 1.3,
+  "fs": 1.25,
+  "b": 1.2,
+  "tmax": 0.144,
+  "cw": 1.2,
+  "r_env": 0.4,
+  "r_env_long": 1.74,
+  "D_rotor": 0.15,
+  "delta": 0.05,
+  "rho": 1.225,
+  "V_cruise": 10.0,
+  "Cm0": -0.05,
+  "k_sec": 0.15,
+  "beam_type": "double",
+  "section_type_front": "i_beam",
+  "section_type_rear": "tube",
+  "front_params": {
+    "h": 0.055,
+    "b_f": 0.025,
+    "t_f": 0.002,
+    "t_w": 0.0015,
+    "rho": 1600.0,
+    "sigma_allow": 280000000.0
+  },
+  "rear_params": {
+    "D": 0.01,
+    "t": 0.001,
+    "rho": 1600.0,
+    "sigma_allow": 280000000.0
+  },
+  "k_reinforce": 0.05,
+  "n_rib": 4,
+  "t_rib": 0.001,
+  "fill_rib": 0.15,
+  "rho_rib": 120.0,
+  "E_rib": 4000000000.0,
+  "n_rib_rein": 4,
+  "t_rib_rein": 0.002,
+  "fill_rib_rein": 0.25,
+  "rho_rib_rein": 650.0,
+  "d_rib": 0.3,
+  "t_skin": 0.0007,
+  "rho_skin": 160.0,
+  "E_skin": 2000000000.0,
+  "tau_allow": 5000000.0,
+  "m_env": 0.1,
+  "k_gear": 0.04,
+  "L_cargo": 0.3,
+  "W_cargo": 0.2,
+  "H_cargo": 0.13,
+  "t_cargo": 0.001,
+  "rho_cargo": 650.0,
+  "W_payload": 10.0,
+  "W_extra": 2.0,
+  "W_cargo_width": 0.2,
+  "loads": {
+    "M_root": 42.31703125000001,
+    "V_root": 79.625,
+    "T_aero": 5.292000000000001,
+    "yR": 1.125,
+    "q_cruise": 61.25000000000001
+  },
+  "beam": {
+    "W_beam": 7.593400894156974,
+    "front": {
+      "A": 0.0001765,
+      "I": 8.683970833333326e-08,
+      "W": 3.1578075757575733e-06,
+      "sigma_b": 13356189.222215371,
+      "tau": 897133.7561564076,
+      "sigma_allow": 280000000.0,
+      "tau_allow": 140000000.0,
+      "bend_ok": true,
+      "shear_ok": true,
+      "M_allow": 884.1861212121205
+    },
+    "rear": {
+      "A": 2.8274333882308144e-05,
+      "I": 2.898119222936584e-10,
+      "W": 5.796238445873168e-08,
+      "sigma_b": 2428398.0404027943,
+      "tau": 388842.67618110584,
+      "sigma_allow": 280000000.0,
+      "tau_allow": 140000000.0,
+      "bend_ok": true,
+      "shear_ok": true,
+      "M_allow": 16.22946764844487
+    },
+    "bend_ok": true,
+    "shear_ok": true,
+    "sigma_b": 13356189.222215371,
+    "tau_beam": 897133.7561564076,
+    "sigma_allow": 280000000.0,
+    "tau_allow": 140000000.0,
+    "M_allow_front": 884.1861212121205,
+    "M_allow_rear": 16.22946764844487,
+    "M_front": 42.17627550916335,
+    "M_rear": 0.1407557408366574,
+    "M_allow": 16.22946764844487
+  },
+  "ribs": {
+    "W_ribs": 0.08299542527999998,
+    "W_ribs_rein": 1.4985285119999998,
+    "W_ribs_total": 1.5815239372799998,
+    "A_airfoil": 0.11750399999999998,
+    "A_rib_net": 0.017625599999999998,
+    "A_rib_rein_net": 0.029375999999999996,
+    "tau_rib": 46079.28240740741,
+    "tau_cr_rib": 2170138.8888888895,
+    "rib_shear_ok": true
+  },
+  "skin": {
+    "W_skin": 3.2592430080000003,
+    "A_skin": 2.9663999999999997,
+    "S_airfoil": 2.472,
+    "tau_skin": 31250.000000000007,
+    "tau_cr": 54444.44444444445,
+    "shear_ok": true,
+    "tau_allow": 5000000.0
+  },
+  "envelope": {
+    "W_env": 1.9620000000000002,
+    "m_env_single": 0.1
+  },
+  "gear": {
+    "W_gear": 3.92
+  },
+  "cargo": {
+    "W_cargo": 1.211535,
+    "A_cargo": 0.19
+  },
+  "extra": {
+    "W_extra": 2.0
+  },
+  "W_wing": 12.434167839436974,
+  "W_other": 9.093535,
+  "W_struct": 24.756858265352516,
+  "W_remain": 73.24314173464748,
+  "beam_params": {
+    "beam_type": "double",
+    "section_type_front": "i_beam",
+    "section_type_rear": "tube",
+    "front_params": {
+      "h": 0.055,
+      "b_f": 0.025,
+      "t_f": 0.002,
+      "t_w": 0.0015,
+      "rho": 1600.0,
+      "sigma_allow": 280000000.0
+    },
+    "rear_params": {
+      "D": 0.01,
+      "t": 0.001,
+      "rho": 1600.0,
+      "sigma_allow": 280000000.0
+    },
+    "k_reinforce": 0.05
+  },
+  "skin_params": {
+    "t_skin": 0.0007,
+    "rho_skin": 160.0,
+    "E_skin": 2000000000.0,
+    "tau_allow": 5000000.0
+  },
+  "components": {
+    "梁": 7.593400894156974,
+    "翼肋": 1.5815239372799998,
+    "蒙皮": 3.2592430080000003,
+    "气囊": 1.9620000000000002,
+    "起落架": 3.92,
+    "载货仓": 1.211535,
+    "额外": 2.0
+  }
+}

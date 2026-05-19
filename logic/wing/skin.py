@@ -40,5 +40,6 @@ def compute_skin(b, cw, tmax, t_skin, rho_skin, E_skin, tau_allow, T, d_rib):
         'S_airfoil': S_airfoil,
         'tau_skin': tau_skin,
         'tau_cr': tau_cr,
-        'shear_ok': shear_ok
+        'shear_ok': shear_ok,
+        'tau_allow': tau_allow
     }

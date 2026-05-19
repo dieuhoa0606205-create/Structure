@@ -1,0 +1,80 @@
+2026-05-19 01:41:34,531 [DEBUG] AeroStruct: 预加载成功: numpy
+2026-05-19 01:41:34,741 [DEBUG] AeroStruct: 预加载成功: pandas
+2026-05-19 01:41:34,810 [DEBUG] AeroStruct: 预加载成功: matplotlib
+2026-05-19 01:41:34,887 [DEBUG] AeroStruct: 预加载成功: openpyxl
+2026-05-19 01:41:34,888 [DEBUG] AeroStruct: 计算函数预热完成
+2026-05-19 01:41:36,937 [DEBUG] AeroStruct: 预加载成功: numpy
+2026-05-19 01:41:36,937 [DEBUG] AeroStruct: 预加载成功: pandas
+2026-05-19 01:41:36,937 [DEBUG] AeroStruct: 预加载成功: matplotlib
+2026-05-19 01:41:36,937 [DEBUG] AeroStruct: 预加载成功: openpyxl
+2026-05-19 01:41:36,938 [DEBUG] AeroStruct: 计算函数预热完成
+2026-05-19 01:45:12,799 [DEBUG] AeroStruct: 预加载成功: numpy
+2026-05-19 01:45:13,077 [DEBUG] AeroStruct: 预加载成功: pandas
+2026-05-19 01:45:13,181 [DEBUG] AeroStruct: 预加载成功: matplotlib
+2026-05-19 01:45:13,286 [DEBUG] AeroStruct: 预加载成功: openpyxl
+2026-05-19 01:45:13,287 [DEBUG] AeroStruct: 计算函数预热完成
+2026-05-19 01:45:15,849 [DEBUG] AeroStruct: 预加载成功: numpy
+2026-05-19 01:45:15,849 [DEBUG] AeroStruct: 预加载成功: pandas
+2026-05-19 01:45:15,850 [DEBUG] AeroStruct: 预加载成功: matplotlib
+2026-05-19 01:45:15,850 [DEBUG] AeroStruct: 预加载成功: openpyxl
+2026-05-19 01:45:15,851 [DEBUG] AeroStruct: 计算函数预热完成
+2026-05-19 01:45:20,914 [DEBUG] AeroStruct: 预加载成功: numpy
+2026-05-19 01:45:20,914 [DEBUG] AeroStruct: 预加载成功: pandas
+2026-05-19 01:45:20,915 [DEBUG] AeroStruct: 预加载成功: matplotlib
+2026-05-19 01:45:20,915 [DEBUG] AeroStruct: 预加载成功: openpyxl
+2026-05-19 01:45:20,916 [DEBUG] AeroStruct: 计算函数预热完成
+2026-05-19 01:45:25,316 [DEBUG] AeroStruct: 预加载成功: numpy
+2026-05-19 01:45:25,317 [DEBUG] AeroStruct: 预加载成功: pandas
+2026-05-19 01:45:25,317 [DEBUG] AeroStruct: 预加载成功: matplotlib
+2026-05-19 01:45:25,317 [DEBUG] AeroStruct: 预加载成功: openpyxl
+2026-05-19 01:45:25,317 [DEBUG] AeroStruct: 计算函数预热完成
+2026-05-19 01:45:26,125 [DEBUG] AeroStruct: 预加载成功: numpy
+2026-05-19 01:45:26,125 [DEBUG] AeroStruct: 预加载成功: pandas
+2026-05-19 01:45:26,125 [DEBUG] AeroStruct: 预加载成功: matplotlib
+2026-05-19 01:45:26,125 [DEBUG] AeroStruct: 预加载成功: openpyxl
+2026-05-19 01:45:26,126 [DEBUG] AeroStruct: 计算函数预热完成
+2026-05-19 01:45:26,290 [DEBUG] AeroStruct: 预加载成功: numpy
+2026-05-19 01:45:26,291 [DEBUG] AeroStruct: 预加载成功: pandas
+2026-05-19 01:45:26,291 [DEBUG] AeroStruct: 预加载成功: matplotlib
+2026-05-19 01:45:26,292 [DEBUG] AeroStruct: 预加载成功: openpyxl
+2026-05-19 01:45:26,292 [DEBUG] AeroStruct: 计算函数预热完成
+2026-05-19 01:45:26,429 [DEBUG] AeroStruct: 预加载成功: numpy
+2026-05-19 01:45:26,429 [DEBUG] AeroStruct: 预加载成功: pandas
+2026-05-19 01:45:26,430 [DEBUG] AeroStruct: 预加载成功: matplotlib
+2026-05-19 01:45:26,430 [DEBUG] AeroStruct: 预加载成功: openpyxl
+2026-05-19 01:45:26,430 [DEBUG] AeroStruct: 计算函数预热完成
+2026-05-19 01:45:26,555 [DEBUG] AeroStruct: 预加载成功: numpy
+2026-05-19 01:45:26,557 [DEBUG] AeroStruct: 预加载成功: pandas
+2026-05-19 01:45:26,557 [DEBUG] AeroStruct: 预加载成功: matplotlib
+2026-05-19 01:45:26,557 [DEBUG] AeroStruct: 预加载成功: openpyxl
+2026-05-19 01:45:26,557 [DEBUG] AeroStruct: 计算函数预热完成
+2026-05-19 01:45:26,769 [DEBUG] AeroStruct: 预加载成功: numpy
+2026-05-19 01:45:26,770 [DEBUG] AeroStruct: 预加载成功: pandas
+2026-05-19 01:45:26,773 [DEBUG] AeroStruct: 预加载成功: matplotlib
+2026-05-19 01:45:26,773 [DEBUG] AeroStruct: 预加载成功: openpyxl
+2026-05-19 01:45:26,774 [DEBUG] AeroStruct: 计算函数预热完成
+2026-05-19 01:45:26,782 [DEBUG] AeroStruct: 预加载成功: numpy
+2026-05-19 01:45:26,783 [DEBUG] AeroStruct: 预加载成功: pandas
+2026-05-19 01:45:26,911 [DEBUG] AeroStruct: 预加载成功: matplotlib
+2026-05-19 01:45:26,912 [DEBUG] AeroStruct: 预加载成功: openpyxl
+2026-05-19 01:45:26,913 [DEBUG] AeroStruct: 计算函数预热完成
+2026-05-19 01:45:29,483 [DEBUG] AeroStruct: 预加载成功: numpy
+2026-05-19 01:45:29,483 [DEBUG] AeroStruct: 预加载成功: pandas
+2026-05-19 01:45:29,483 [DEBUG] AeroStruct: 预加载成功: matplotlib
+2026-05-19 01:45:29,483 [DEBUG] AeroStruct: 预加载成功: openpyxl
+2026-05-19 01:45:29,484 [DEBUG] AeroStruct: 计算函数预热完成
+2026-05-19 01:58:40,317 [DEBUG] AeroStruct: 预加载成功: numpy
+2026-05-19 01:58:40,534 [DEBUG] AeroStruct: 预加载成功: pandas
+2026-05-19 01:58:40,618 [DEBUG] AeroStruct: 预加载成功: matplotlib
+2026-05-19 01:58:40,689 [DEBUG] AeroStruct: 预加载成功: openpyxl
+2026-05-19 01:58:40,690 [DEBUG] AeroStruct: 计算函数预热完成
+2026-05-19 01:58:43,089 [DEBUG] AeroStruct: 预加载成功: numpy
+2026-05-19 01:58:43,089 [DEBUG] AeroStruct: 预加载成功: pandas
+2026-05-19 01:58:43,090 [DEBUG] AeroStruct: 预加载成功: matplotlib
+2026-05-19 01:58:43,090 [DEBUG] AeroStruct: 预加载成功: openpyxl
+2026-05-19 01:58:43,090 [DEBUG] AeroStruct: 计算函数预热完成
+2026-05-19 01:58:47,286 [DEBUG] AeroStruct: 预加载成功: numpy
+2026-05-19 01:58:47,287 [DEBUG] AeroStruct: 预加载成功: pandas
+2026-05-19 01:58:47,287 [DEBUG] AeroStruct: 预加载成功: matplotlib
+2026-05-19 01:58:47,288 [DEBUG] AeroStruct: 预加载成功: openpyxl
+2026-05-19 01:58:47,288 [DEBUG] AeroStruct: 计算函数预热完成
