@@ -1,10 +1,9 @@
-# start.py —— 一键运行启动脚本（点击 VS Code 右上角 ▶ 运行）
+# start.py —— 
 import subprocess
 import sys
 import os
 
 def main():
-    # 获取 main.py 路径
     base_dir = os.path.dirname(os.path.abspath(__file__))
     main_script = os.path.join(base_dir, "main.py")
 
@@ -16,10 +15,10 @@ def main():
     print("浏览器打开 http://localhost:8501 即可查看")
     print("按 Ctrl+C 停止运行\n")
 
-    # 用当前 Python 解释器运行 streamlit
-    subprocess.run([
-        sys.executable, "-m", "streamlit", "run", main_script
-    ])
+    try:
+        subprocess.run([sys.executable, "-m", "streamlit", "run", main_script])
+    except KeyboardInterrupt:
+        print("\n🛬 程序已优雅退出。")
 
 if __name__ == "__main__":
     main()

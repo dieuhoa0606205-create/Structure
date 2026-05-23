@@ -173,7 +173,7 @@ with tab_visual:
             loads_for_viz = compute_design_loads(
                 WTO=overall_params['WTO'], kL=overall_params['kL'],
                 nvtol=overall_params['nvtol'], fs=overall_params['fs'],
-                b=overall_params['b'], r_env=overall_params['r_env'],
+                b=overall_params['b'],  r_env=overall_params['r_env'],
                 D_rotor=overall_params['D_rotor'], delta=overall_params['delta'],
                 cw=overall_params['cw'], rho=overall_params['rho'],
                 V_cruise=overall_params['V_cruise'], Cm0=overall_params['Cm0'],
@@ -206,7 +206,7 @@ with tab5:
                     loads = compute_design_loads_advanced(
                         WTO=overall_params['WTO'], kL=overall_params['kL'],
                         nvtol=overall_params['nvtol'], fs=overall_params['fs'],
-                        b=overall_params['b'], r_env=overall_params['r_env'],
+                        b=overall_params['b'], bfuse=overall_params.get('bfuse', 0.0), r_env=overall_params['r_env'],
                         D_rotor=overall_params['D_rotor'], delta=overall_params['delta'],
                         cw=overall_params['cw'], rho=overall_params['rho'],
                         V_cruise=overall_params['V_cruise'], Cm0=overall_params['Cm0'],
@@ -217,7 +217,7 @@ with tab5:
                     loads = compute_design_loads(
                         WTO=overall_params['WTO'], kL=overall_params['kL'],
                         nvtol=overall_params['nvtol'], fs=overall_params['fs'],
-                        b=overall_params['b'], r_env=overall_params['r_env'],
+                        b=overall_params['b'], bfuse=overall_params.get('bfuse', 0.0), r_env=overall_params['r_env'],
                         D_rotor=overall_params['D_rotor'], delta=overall_params['delta'],
                         cw=overall_params['cw'], rho=overall_params['rho'],
                         V_cruise=overall_params['V_cruise'], Cm0=overall_params['Cm0'],
